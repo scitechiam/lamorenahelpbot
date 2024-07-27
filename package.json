@@ -1,0 +1,15 @@
+{
+  "name": "lamorenahelpbot",
+  "version": "1.0.0",
+  "description": "//La morena help bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Yoan Rodriguez Perez",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.1",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
