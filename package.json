@@ -4,12 +4,13 @@
   "description": "//La morena help bot",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "author": "Frank Yoan Rodriguez Perez",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^8.5.1",
-    "node-telegram-bot-api": "^0.66.0"
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
   }
 }
